@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krxxys
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning python and javascript
 
 <!---
 krxxys/krxxys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
