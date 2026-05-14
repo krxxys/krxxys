@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @krxxys
-- 👀 I’m interested in IT related things especially in Rust and Web Dev
-- 🌱 Currently im focused at learning rust
+<div align="center">
 
-<!---
-krxxys/krxxys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🌸 Hey, I'm krxxys
+
+### 「 KHMM 」
+
+<img src="https://img.shields.io/badge/Focus-Fullstack%20Development-ff79c6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lives-Poland-8be9fd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Loves-Anime%20%26%20Code-bd93f9?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌙 About Me
+
+```yaml
+name: "Krzysztof"
+located_in: "Poland 🇵🇱"
+
+current_job: "Building cool stuff"
+
+fields_of_interests:
+  [
+    "Web Development",
+    "System",
+    "Linux",
+    "Open Source"
+  ]
+
+currently_learning: ["Rust", "TypeScript"]
+```
